@@ -2,6 +2,7 @@
     "name": "Calculator",
     "description": "Calculator that uses mathjs to evaluate",
     "version": "1.1",
+    "default_enable": ["Dice"],
     "homepage": "https://github.com/datamachine/telegram-pybot-calculator",
     "repo": "https://github.com/datamachine/telegram-pybot-calculator.git",
     "branch": "master"
