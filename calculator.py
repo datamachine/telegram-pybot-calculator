@@ -1,8 +1,8 @@
-import plugintypes
+from telegrambot.plugin import TelegramPlugin
 from urllib import request, error, parse
 
 
-class CalculatorPlugin(plugintypes.TelegramPlugin):
+class CalculatorPlugin(TelegramPlugin):
     """
     Calculator that uses mathjs to evaluate
     """
