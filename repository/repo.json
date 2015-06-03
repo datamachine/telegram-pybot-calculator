@@ -3,7 +3,7 @@
     "description": "Calculator that uses mathjs to evaluate",
     "version": "1.2",
     "default_enable": ["Calculator"],
-    "homepage": "https://github.com/datamachine/telegram-pybot-calculator",
-    "repo": "https://github.com/datamachine/telegram-pybot-calculator.git",
+    "homepage": "https://github.com/datamachine/telex-calculator",
+    "repo": "https://github.com/datamachine/telex-calculator.git",
     "branch": "master"
 }
